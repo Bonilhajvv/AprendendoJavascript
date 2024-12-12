@@ -4,4 +4,4 @@ const idade = 26;
 
 console.log("idade: ",idade);
 
-console.log("S2");
+console.log("S2S2S2");
