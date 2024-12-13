@@ -1,4 +1,4 @@
-console.log("salve, vsCode na voz, satisfação. Trabalhando com variaveis");
+console.log("Bom dia, boa tarde e boa noite. Trabalhando com variaveis");
 
 const idade = 26;
 
