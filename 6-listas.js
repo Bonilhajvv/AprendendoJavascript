@@ -14,3 +14,6 @@ const listaDeDestinos = new Array(
 listaDeDestinos.push(`Curitiba`);
 console.log(listaDeDestinos);
 console.log(listaDeDestinos[0]);
+
+const teste = 1;
+listaDeDestinos.splice(teste,1);
