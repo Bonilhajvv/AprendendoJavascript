@@ -13,3 +13,4 @@ const listaDeDestinos = new Array(
 );
 listaDeDestinos.push(`Curitiba`);
 console.log(listaDeDestinos);
+console.log(listaDeDestinos[0]);
